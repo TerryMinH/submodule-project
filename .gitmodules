@@ -1,3 +1,6 @@
 [submodule "submodule-common"]
 	path = submodule-common
 	url = git@github.com:TerryMinH/submodule-common.git
+[submodule "submodule-utils"]
+	path = submodule-utils
+	url = git@github.com:TerryMinH/submodule-utils.git
